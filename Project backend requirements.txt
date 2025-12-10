@@ -1,0 +1,38 @@
+Project backend requirements
+
+
+
+MONGODB_URI = 'mongodb+srv://bhatakhilesh18:prescripto@cluster001.hndlz.mongodb.net'
+CLOUDINARY_NAME = 'dq5w52aey'
+CLOUDINARY_API_KEY = '666656877861294' 
+CLOUDINARY_SECRET_KEY = '27j4-uFYWMUwZ1MnI8G6eFn5u8I' 
+ADMIN_EMAIL = 'admin@prescripto.com'
+ADMIN_PASSWORD = 'admin123'
+
+
+
+postman : user register
+{
+    "name":"Greatstack",
+    "email":"demo.greatstack@gmail.com",
+   "password":"demo0123"
+}
+
+{
+   "name":"UserDemo",
+    "email":"userdemo@gmail.com",
+   "password":"userdemo"
+}
+
+doctors password
+ 
+ {
+    "email":"emily@prescripto.com",
+    "password":"emily123"
+}
+
+
+
+razorpay 
+card : 4111 1111 1111 1111
+
